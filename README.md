@@ -10,8 +10,32 @@ analog_filter_design/
 ├── bode_plot_custom.ipynb          # Custom Bode plot implementation
 ├── lab2_filter_analysis.ipynb      # Filter analysis with various input signals
 ├── lab2_filter_degine.ipynb        # Filter design implementations
-└── NORMALIZED_template_all_filters.ipynb  # Normalized filter templates
+├── NORMALIZED_template_all_filters.ipynb  # Normalized filter templates
+
 ```
+
+## Sample Output Images
+
+This project generates various visualization outputs that demonstrate filter behavior and signal processing results. Below are sample images from the project:
+
+### Filter Frequency Response
+
+![Filter 2 Response](outputimages/filter2.png)
+_Figure 1: Frequency response characteristics of a designed filter showing magnitude and phase plots_
+
+![Filter 3 Design](outputimages/filter3.png)
+_Figure 2: Filter design visualization with Bode plot analysis_
+
+### Signal Filtering Examples
+
+![Sine Wave Filtering](outputimages/sine_filter.png)
+_Figure 3: Sine wave filtering demonstration showing input and filtered output signals_
+
+![High-Frequency Sine Wave Filtered](outputimages/hf_sinewwave_filtered.png)
+_Figure 4: High-frequency sine wave filtering result showing noise reduction_
+
+![Random Pulse Filtering](outputimages/filtered_randompulse.png)
+_Figure 5: Random pulse signal filtering demonstration showing time-domain response_
 
 ## Notebooks Overview
 
